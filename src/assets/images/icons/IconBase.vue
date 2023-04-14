@@ -26,7 +26,7 @@
         default: 18
       },
       viewbox: {
-        type: [Number, String],
+        type: String,
         default: "0 0 220 80"
       },
       height: {
